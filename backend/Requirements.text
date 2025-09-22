@@ -1,0 +1,13 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+motor==3.3.2
+pydantic==2.5.0
+python-dotenv==1.0.0
+python-multipart==0.0.6
+twilio==8.10.3
+sendgrid==6.10.0
+stripe==8.0.0
+requests==2.31.0
+cryptography==43.0.1
+solders==0.24.0
+base58==2.1.1
